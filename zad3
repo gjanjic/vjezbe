@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<head>
+    <title>Novouseljivi stanovi</title>
+</head>
+<body>
+    <h1>Novouseljivi stanovi</h1>
+    
+    <h2 style="padding: 10px; text-align: center; font-size: 70px; line-height: 1.5; letter-spacing: 0px; font-weight: normal;" class="nd_options_third_font">
+        Gdje se nalazimo
+    </h2>
+    
+    <p style="text-align: left; font-size: 24px;">Nova zgrada u Velikoj Gorici otvara vrata za 10 obitelji</p>
+    <p style="text-align: left; font-size: 24px;">Cijena kvadrata samo 2200€</p>
+
+    <figure>
+        <a href="https://www.zonastanovanje.com/images/tlocrti/zgrada.jpg">
+            <img src="https://www.zonastanovanje.com/images/tlocrti/zgrada.jpg" alt="Nova zgrada u području Velike Gorice">
+        </a>
+        <figcaption>
+            Nova zgrada u Velikoj Gorici.
+            Originalna slika by <a href="https://www.zonastanovanje.com">Zona Stanovanje</a>
+        </figcaption>
+    </figure>
+
+    <figure>
+        <a href="C:/projekt web/zgrada.jpg">
+            <img src="C:/projekt web/zgrada.jpg" alt="Najnovija zgrada u Velikoj Gorici">
+        </a>
+        <figcaption>
+            Najnovija zgrada u Velikoj Gorici.
+            Originalna slika by <a href="C:/projekt web/zgrada.jpg">Vaša lokalna mapa</a>
+        </figcaption>
+    </figure>
+</body>
+</html>
