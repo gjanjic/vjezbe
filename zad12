@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Novouseljivi stanovi</title>
+    <link rel="icon" type="image/x-icon" href="phone-call.png" />
+    <style>
+      p {
+        color: green;
+      }
+      #red {
+        color: red;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 id="red">Novouseljivi stanovi</h1>
+
+    <h2
+      style="
+        padding: 10px;
+        text-align: center;
+        font-size: 70px;
+        line-height: 1.5;
+        letter-spacing: 0px;
+        font-weight: normal;
+      "
+      class="nd_options_third_font"
+    >
+      Gdje se nalazimo
+    </h2>
+
+    <p>Nova zgrada u Velikoj Gorici otvara vrata za 10 obitelji</p>
+    <p>Cijena kvadrata samo 2200€</p>
+    <figure>
+      <a href="https://www.zonastanovanje.com/images/tlocrti/zgrada.jpg">
+        <img
+          src="https://www.zonastanovanje.com/images/tlocrti/zgrada.jpg"
+          alt="Nova zgrada u području Velike Gorice"
+        />
+      </a>
+      <figcaption>
+        Nova zgrada u Velikoj Gorici. Originalna slika by
+        <a href="https://www.zonastanovanje.com">Zona Stanovanje</a>
+      </figcaption>
+    </figure>
+    <figure>
+      <a href="C:/projekt web/zgrada.jpg">
+        <img
+          src="C:/projekt web/zgrada.jpg"
+          alt="Najnovija zgrada u Velikoj Gorici"
+        />
+      </a>
+      <figcaption>
+        Najnovija zgrada u Velikoj Gorici. Originalna slika by
+        <a href="C:/projekt web/zgrada.jpg">Vaša lokalna mapa</a>
+      </figcaption>
+    </figure>
+    <div>
+      <p>
+        Lorem ipsum <span style="color: red">dolor</span> sit amet consectetur
+        adipisicing elit.
+      </p>
+      <p>Lorem ipsum <span style="color: red">dolor</span> sit, amet consect</p>
+    </div>
+    <div>
+      <iframe
+        width="900"
+        height="600"
+        src="https://www.youtube.com/embed/U7QQtX9ILWs"
+        allowfullscreen
+        class="video"
+      >
+      </iframe>
+    </div>
+    <
+    <form>
+      <label for="firstname">Ime: </label>
+      <input type="text" id="firstname" name="firstname" /><br />
+      <label for="lastname">Prezime: </label>
+      <input type="text" id="lastname" name="lastname" /><br />
+      <label for="email">E-mail: </label>
+      <input type="email" id="email" name="email" /><br />
+      <input type="radio" name="gender" /> Muško<br />
+      <input type="radio" name="gender" /> Žensko<br />
+      <input type="submit" />
+      <input type="reset" />
+    </form>
+
+    <footer>
+      &copy; Gabriel Janjic
+      <a href="https://www.github.com/gjanjic" target="_blank">Github</a> &amp;
+      Novogradnja. All rights reserved.
+    </footer>
+  </body>
+</html>
