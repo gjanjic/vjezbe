@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      h1 {
+        font-family: Verdana, Geneva, sans-serif;
+      }
+      .prvi {
+        font-family: Courier New, Courier, monospace;
+      }
+      .ostali {
+        font-family: "Gill Sans";
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Naslov</h1>
+    <p class="prvi">Prvi odlomak</p>
+    <p class="svi">Drugi odlomak</p>
+    <p class="svi">Treci odlomak</p>
+  </body>
+</html>
